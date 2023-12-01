@@ -10,5 +10,12 @@
       "score": 2,
       "id": 2
     }
-  ]
+  ],
+  "products":[
+  { "id": 1, "name": "Laptop", "brand": "Dell", "price": 1000, "quantity": 2, "total": 2000, "status": "pending" },
+  { "id": 2, "name": "Smartphone", "brand": "Samsung", "price": 500, "quantity": 3, "total": 1500, "status": "pending" },
+  { "id": 3, "name": "Headphones", "brand": "Sony", "price": 100, "quantity": 5, "total": 500, "status": "pending" }
+  
+]
+
 }
